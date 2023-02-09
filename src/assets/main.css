@@ -1,26 +1,6 @@
 body {
-  margin-left:10%;
-  margin-right: 10%;
+  padding-left:10%;
+  padding-right: 10%;
   width: 518px;
   font-family: DM Sans;
-}
-
-p {
-  font-family: 'DM Sans';
-font-style: normal;
-font-weight: 500;
-font-size: 6.72064px;
-line-height: 9px;
-
-color: #4A4A4A;
-}
-
-h1 {
-  font-family: 'Manrope';
-font-style: normal;
-font-weight: 800;
-font-size: 16.0817px;
-line-height: 22px;
-text-align: center;
-color: #31353B;
 }
